@@ -119,3 +119,66 @@ GCC4.9版本的array：
 ## 8. 探究forward_list ##
 forward_list为单向链表，分析方法和list类似：
 ![](https://i.imgur.com/Jp9064h.png)
+
+## 9. 探究deque ##
+![](https://i.imgur.com/k4BgJeK.png)
+![](https://i.imgur.com/MmHLOKG.png)
+![](https://i.imgur.com/tI3JcaI.png)
+![](https://i.imgur.com/jkLPV6L.png)
+![](https://i.imgur.com/FIKwnsn.png)
+![](https://i.imgur.com/3sop6iB.png)
+![](https://i.imgur.com/HyyNxPW.png)
+![](https://i.imgur.com/ZZgE9oO.png)
+![](https://i.imgur.com/ydk7XYy.png)
+
+GCC4.9版本的deque：
+
+![](https://i.imgur.com/4JnzTL8.png)
+![](https://i.imgur.com/O96xrPx.png)
+
+## 10. 探究queue和stack ##
+![](https://i.imgur.com/BfBIZR6.png)
+![](https://i.imgur.com/LaiHWR1.png)
+![](https://i.imgur.com/R8ti6RE.png)
+![](https://i.imgur.com/JoSpGIt.png)
+![](https://i.imgur.com/6iiNFGQ.png)
+
+## 11. 红黑树 ##
+![](https://i.imgur.com/0ijtX4w.png)
+![](https://i.imgur.com/R56kXul.png)
+![](https://i.imgur.com/fr3dvVQ.png)
+![](https://i.imgur.com/UDDtryy.png)
+![](https://i.imgur.com/u6GlPVX.png)
+![](https://i.imgur.com/co1hdP3.png)
+![](https://i.imgur.com/WqIWkNs.png)
+
+## 12. 探究set/multiset
+![](https://i.imgur.com/jOQEkid.png)
+![](https://i.imgur.com/QwqR0De.png)
+![](https://i.imgur.com/R0xmirY.png)
+![](https://i.imgur.com/TRqBJM8.png)
+
+## 13. 探究map/multimap ##
+![](https://i.imgur.com/vmF5b8k.png)
+![](https://i.imgur.com/BZHf7Oh.png)
+![](https://i.imgur.com/qLocCxm.png)
+![](https://i.imgur.com/TwJr0HI.png)
+![](https://i.imgur.com/lFjQNnd.png)
+![](https://i.imgur.com/KO5UKd3.png)
+
+## 14. hashtable ##
+![](https://i.imgur.com/X3QLlAR.png)
+![](https://i.imgur.com/i587xKS.png)
+![](https://i.imgur.com/1AjaVrI.png)
+![](https://i.imgur.com/1LqNlU3.png)
+![](https://i.imgur.com/cf7U2bb.png)
+![](https://i.imgur.com/zlHN9bh.png)
+![](https://i.imgur.com/8hBXqpA.png)
+![](https://i.imgur.com/ZtRKcf7.png)
+![](https://i.imgur.com/k9cmyOg.png)
+![](https://i.imgur.com/szQKlkQ.png)
+
+## 15. unordered容器 ##
+![](https://i.imgur.com/unC0HMv.png)
+![](https://i.imgur.com/cIYMJM0.png)
+![](https://i.imgur.com/FxrxaXW.png)

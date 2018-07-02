@@ -212,3 +212,37 @@
 
 ### （8）binary_search ###
 ![](https://i.imgur.com/oWf4HOA.png)
+
+## 3. 仿函数 ##
+![](https://i.imgur.com/gjCrEvv.png)
+![](https://i.imgur.com/CjmDq2p.png)
+![](https://i.imgur.com/bg6A7Pa.png)
+![](https://i.imgur.com/QB83KKh.png)
+
+## 4. 适配器 ##
+![](https://i.imgur.com/QsTkwmd.png)
+![](https://i.imgur.com/4KAgdQG.png)
+
+
+## 5. binder2nd ##
+![](https://i.imgur.com/THABSKY.png)
+
+## 6. notl ##
+![](https://i.imgur.com/eCJUvnc.png)
+
+## 7. 新适配器bind ##
+![](https://i.imgur.com/o8zPo2o.png)
+![](https://i.imgur.com/tVzBVTi.png)
+
+## 8. reverse_iterator ##
+![](https://i.imgur.com/RRCJL25.png)
+
+## 9. inserter ##
+![](https://i.imgur.com/EM5Syun.png)
+
+## 10. ostream_iterator ##
+![](https://i.imgur.com/3Uw83Qw.png)
+
+## 11. istream_iterator ##
+![](https://i.imgur.com/DOPz8Dn.png)
+![](https://i.imgur.com/PsHru8W.png)
